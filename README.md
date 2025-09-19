@@ -1,1 +1,1 @@
-This is a simple Notebook for MEGR 2810 class. It contains files created for the class. 
+This is the MEGR 2810 class repository owned by Dr. Han. It contains files relevant to the class. 
