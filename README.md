@@ -1,1 +1,1 @@
-This is the branch contains Jupyter Notebooks from Python Numerical Methods. 
+This is the branch contains Jupyter Notebooks from Python Numerical Methods. This is my personal practice space. Please refer to Python Programming and Numerical Methods - A Guide for Engineers and Scientists at Berkeley Python Numerical Methods for the original source.
