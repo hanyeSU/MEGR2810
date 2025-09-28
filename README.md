@@ -1,1 +1,1 @@
-This branch contains resources from Allen Downey's Think Python Jupyter Notebooks. It is for personal practice. 
+This notbook contains exercises for MEGr 2810 class in Fall 2025. 
